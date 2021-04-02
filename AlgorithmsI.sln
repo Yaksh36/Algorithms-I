@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsomorphicStrings", "IsomorphicStrings\IsomorphicStrings.csproj", "{22845F8B-D11D-4024-907C-9E7919676CFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneDirectory", "PhoneDirectory\PhoneDirectory.csproj", "{95314262-699B-4869-8DFB-A47567712C13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneDirectory", "PhoneDirectory\PhoneDirectory.csproj", "{95314262-699B-4869-8DFB-A47567712C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigO", "BigO\BigO.csproj", "{EA991E16-7930-4B35-8ABF-5DDCEB575E2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{95314262-699B-4869-8DFB-A47567712C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95314262-699B-4869-8DFB-A47567712C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95314262-699B-4869-8DFB-A47567712C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA991E16-7930-4B35-8ABF-5DDCEB575E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA991E16-7930-4B35-8ABF-5DDCEB575E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA991E16-7930-4B35-8ABF-5DDCEB575E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA991E16-7930-4B35-8ABF-5DDCEB575E2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
