@@ -1,9 +1,10 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Linq;
 using System.Text;
+using SortingLibrary;
 
-namespace SortTest
+namespace UnitTestProject1
 {
     [TestClass]
     public class SortingUnitTests
