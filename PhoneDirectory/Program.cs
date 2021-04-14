@@ -11,7 +11,7 @@ namespace PhoneDirectory
         {
             Console.WriteLine("Hello World!");
 
-            /* string s = "/+1-541-754-3010 156 Alphand_St. <J Steeve>\n 133, Green, Rd. <E Kustur> NY-56423 ;+1-541-914-3010!\n";
+            /* string s = "/ 156 Alphand_St.\n 133, Green, Rd. <E Kustur> NY-56423 ;+1-541-914-3010!\n";
              Phone(s, "1-541-754-3010");*/
             PhoneDirTests.test1();
         }
