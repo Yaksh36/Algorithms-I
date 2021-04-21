@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortingLibrary", "SortingLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingTest", "SortingTest\SortingTest.csproj", "{34938E2B-4CA1-4A44-B171-5C89ABFD4109}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightSort", "WeightSort\WeightSort.csproj", "{170B48D7-97D7-4CE9-A2AA-009C6E8BD60F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NQueens", "NQueens\NQueens.csproj", "{ED5217CE-EE05-4E23-821F-D26756F061D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{34938E2B-4CA1-4A44-B171-5C89ABFD4109}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34938E2B-4CA1-4A44-B171-5C89ABFD4109}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34938E2B-4CA1-4A44-B171-5C89ABFD4109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{170B48D7-97D7-4CE9-A2AA-009C6E8BD60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170B48D7-97D7-4CE9-A2AA-009C6E8BD60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170B48D7-97D7-4CE9-A2AA-009C6E8BD60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170B48D7-97D7-4CE9-A2AA-009C6E8BD60F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5217CE-EE05-4E23-821F-D26756F061D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5217CE-EE05-4E23-821F-D26756F061D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5217CE-EE05-4E23-821F-D26756F061D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5217CE-EE05-4E23-821F-D26756F061D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
